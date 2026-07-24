@@ -70,7 +70,7 @@ WEEK-4-TASK/
 ## How to Run
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/hania-sajjad/WEEK-4-TASK
 cd WEEK-4-TASK
 pip install -r requirements.txt
 jupyter notebook
